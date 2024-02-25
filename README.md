@@ -1,4 +1,4 @@
-# Pizza Place Sales Analysis
+# Pizza Sales Analysis
 
 ### Project Overview
 The main objective of this project is to analyze the retail sales data to gain actionable insights that will enhance the performance of the pizza place. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of pizza industry and its trends.
